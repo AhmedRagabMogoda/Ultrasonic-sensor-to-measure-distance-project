@@ -7,6 +7,7 @@
 
 #include "TIMER.h"
 
+
 void TIMER1_ICU_init(void)
 {
 	//determine normal mode
