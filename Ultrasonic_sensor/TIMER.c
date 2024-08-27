@@ -32,7 +32,6 @@ void TIMER1_stop_ICU(void)
 	TCCR1B=0;
 }
 
-
 unsigned short TIMER1_ICU_raising(void)
 {
 	unsigned short val;
